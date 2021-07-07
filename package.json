@@ -1,0 +1,19 @@
+{
+  "name": "hellomicrovers",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJokeer/hellomicrovers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJokeer/hellomicrovers/issues"
+  },
+  "homepage": "https://github.com/xJokeer/hellomicrovers#readme"
+}
